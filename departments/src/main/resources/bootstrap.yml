@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: departments-microservice
+  cloud:
+    config:
+      label: 02-Configuration-server
